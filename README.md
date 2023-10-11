@@ -19,7 +19,7 @@
 ### Sistema Operacional
 <div style="display: inline_block;">
     <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-    <img align="center" alt="Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+    <img align="center" alt="Apple" height="30" width="40" src="icons/apple.svg">
 </div><br>
 
 ### DataBases
@@ -29,7 +29,7 @@
 
 ### IDEs
 <div style="display: inline_block;">
-    <img align="center" alt="Oracle SQL Developer" height="30" width="30" src="icons/Oracle_SQL_Developer.svg">
+    <img align="center" alt="Oracle SQL Developer" height="40" width="40" src="icons/Oracle_SQL_Developer.svg">
     <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 </div><br>
