@@ -1,7 +1,7 @@
 # Contato
 
 <div style="display: inline_block;">
-    <a href="www.linkedin.com/in/victor-gabriel-ribas-fanfoni">
+    <a href="https://www.linkedin.com/in/victor-gabriel-ribas-fanfoni">
         <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
     <a href="mailto:victorgrfanfoni@gmail.com">
